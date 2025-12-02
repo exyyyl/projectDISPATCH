@@ -1,0 +1,30 @@
+.videoplayer {  
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 100%;
+    border-radius: 20px;
+}
+
+.main-block img {
+    display: flex;
+    height: 100px;
+}
+
+.main-block {
+    display: flex;
+    align-items: center;
+}
+
+.video-container {
+    display: flex;
+    position: relative;
+}
+
+.overlay-image {
+    position: absolute;
+    left: 15%;
+    transform: translateX(-50%);
+    bottom: 10%;
+    z-index: 3;
+}

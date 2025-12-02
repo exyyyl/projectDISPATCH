@@ -1,0 +1,33 @@
+.nav-bar {
+    display: flex;
+    margin: auto;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 20px;
+    padding: 20px 0 20px 0;
+    max-width: 100%;
+}
+.nav-bar .menu-right, ul {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    list-style: none;
+    padding-left: 0;
+    gap: 20px;
+}
+
+.nav-bar a {
+    text-decoration-line: none;
+    color: white;
+}
+
+.links-buttons button {
+    color: white;
+    background: none;
+    border: 1px solid;
+    border-radius: 3px;
+}
+
+.nav-bar img {
+    height: 50px;
+}
