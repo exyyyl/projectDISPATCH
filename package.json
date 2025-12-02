@@ -6,7 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "build:export": "next build && next export",
+    "build:export": "next build",
     "deploy": "gh-pages -d out -b gh-pages",
     "lint": "eslint"
   },
