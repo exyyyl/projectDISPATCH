@@ -1,0 +1,8 @@
+:HL["/projectDISPATCH/_next/static/chunks/2e25fb7835a25f06.css","style"]
+:HL["/projectDISPATCH/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/projectDISPATCH/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/projectDISPATCH/_next/static/chunks/959c7171d62451e8.css","style"]
+:HL["/projectDISPATCH/_next/static/chunks/3936c77f053023cc.css","style"]
+:HL["https://images.squarespace-cdn.com/content/v1/673ecb02839de7577f9c0982/9ab44559-e4c0-42d3-b18e-0379f4490006/ADHOC_LOGO_FULL_SMALLWhite.png?format=1500w","image"]
+:HL["https://images.squarespace-cdn.com/content/v1/673ecb02839de7577f9c0982/f8e98b9d-beac-46a1-bb2c-cf47276eec91/DISPATCH_LOGO_COLOR_FLAT.png?format=1500w","image"]
+0:{"buildId":"46PbHp2003YFL8FP1k-rN","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
