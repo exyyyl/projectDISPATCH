@@ -3,7 +3,7 @@
     margin: auto;
     flex-direction: row;
     justify-content: space-between;
-    gap: 20px;
+    gap: 50px;
     padding: 20px 0 20px 0;
     max-width: 100%;
 }
@@ -13,16 +13,15 @@
     flex-direction: row;
     list-style: none;
     padding-left: 0;
-    gap: 20px;
+    gap: 30px;
 }
 
 .nav-bar a {
     text-decoration-line: none;
-    color: white;
 }
 
 .links-buttons button {
-    color: white;
+    color: rgb(122, 114, 114);
     background: none;
     border: 1px solid;
     border-radius: 3px;
@@ -30,4 +29,42 @@
 
 .nav-bar img {
     height: 50px;
+}
+
+.logo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 20px;
+}
+
+.version {
+    background-color: white;
+    color: black;
+    padding: 0 10px;
+    border-radius: 5px;
+}
+
+.nav-bar ul.background {
+    gap: 40px;
+}
+
+.background {
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    
+    box-shadow:
+    /* Нижний и правый эффект глубины */
+    inset -0.75px -0.5px rgba(255, 255, 255, 0.1),
+    /* Верхний и левый эффект глубины */
+    inset +0.75px +0.5px rgba(255, 255, 255, 0.025),
+    /* Эффект тени */
+    3px 2px 10px rgba(0, 0, 0, 0.25),
+    /* Короткий подповерхностный эффект */
+    inset 0px 0px 10px 5px rgba(255, 255, 255, 0.025),
+    /* Длинный подповерхностный эффект */
+    inset 0px 0px 40px 5px rgba(255, 255, 255, 0.025);
+
+    border-radius: 30px;
+    padding: 10px 20px;
 }
